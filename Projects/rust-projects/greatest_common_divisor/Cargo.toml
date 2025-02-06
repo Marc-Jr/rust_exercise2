@@ -1,7 +1,0 @@
-[package]
-name = "greatest_common_divisor"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-gcd = "2.3.0"
